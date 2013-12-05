@@ -1,0 +1,15 @@
+<package>
+  <description brief="mosquito_launchers">
+
+     mosquito_launchers
+
+  </description>
+  <author>Viatcheslav</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/mosquito_launchers</url>
+
+  <rosdep name="hector_slam" />
+</package>
+
+

@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="monitoring" type="monitoring_memoryInfo" name="monitoring_memoryInfo" respawn="true">
+			<param name="/memoryInfo/hz" value="0.2" type="str"/>
+	</node>
+</launch>

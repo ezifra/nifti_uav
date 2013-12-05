@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="monitoring" type="monitoring_cpuInfo" name="monitoring_cpuInfo" respawn="true">
+			<param name="/cpuInfo/hz" value="0.2" type="str"/>
+	</node>
+	
+</launch>

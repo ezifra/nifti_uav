@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="runtime_monitor" type="monitor" name="monitor" respawn="true">
+	</node>
+	
+</launch>

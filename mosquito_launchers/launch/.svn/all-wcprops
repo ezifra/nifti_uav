@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/nifti/!svn/ver/7456/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch
+END
+camera_front.launch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nifti/!svn/ver/6681/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/camera_front.launch
+END
+mosquito.launch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nifti/!svn/ver/6804/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/mosquito.launch
+END
+mosquito_hector.launch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/nifti/!svn/ver/6549/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/mosquito_hector.launch
+END
+uav_tf.launch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nifti/!svn/ver/5058/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/uav_tf.launch
+END
+mosquito_hector_geotiff.launch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/nifti/!svn/ver/6640/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/mosquito_hector_geotiff.launch
+END
+UAV.launch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/7456/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/UAV.launch
+END
+camera_node.launch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nifti/!svn/ver/6681/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/camera_node.launch
+END
+flight_control.launch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/nifti/!svn/ver/4714/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/flight_control.launch
+END
+uav_sonar.launch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nifti/!svn/ver/6640/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/uav_sonar.launch
+END
+hokuyo.launch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nifti/!svn/ver/6804/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/hokuyo.launch
+END
+camera_down.launch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nifti/!svn/ver/6681/code/ros/stacks/nifti_UAV/trunk/mosquito_launchers/launch/camera_down.launch
+END

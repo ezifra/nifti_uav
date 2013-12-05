@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="monitoring" type="monitoring_thermalInfo" name="monitoring_thermalInfo" respawn="true">
+			<param name="/batteryInfo/hz" value="0.2" type="str"/>
+	</node>
+</launch>

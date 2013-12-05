@@ -1,0 +1,29 @@
+<package>
+  <description brief="monitoring">
+
+     monitoring
+
+  </description>
+  <author>Thorsten Linder</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/monitoring</url>
+
+  <depend package="std_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="diagnostic_msgs"/>
+  <depend package="diagnostic_updater"/>
+  <depend package="monitoring_msgs"/>
+
+  <rosdep name="acpi" />
+  <rosdep name="iw" />
+  <rosdep name="libssh2-1-dev"/>
+
+  <platform os="ubuntu" version="9.04"/>
+  <platform os="ubuntu" version="9.10"/>
+  <platform os="ubuntu" version="10.04"/>
+  <platform os="ubuntu" version="10.10"/>
+
+</package>
+
+

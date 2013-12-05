@@ -1,0 +1,18 @@
+<package>
+  <description brief="uav_tf">
+
+     The UAV_tf is publishing the current position of the UAV using an transform message.
+
+  </description>
+  <author>Thorsten Linder</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/uav_tf</url>
+  <depend package="tf"/>
+  <depend package="flight_control"/>
+  <depend package="usbi2c"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+

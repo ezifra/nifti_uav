@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/nifti/!svn/ver/6643/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src
+END
+senderIT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/senderIT.cpp
+END
+record_theora.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/record_theora.cpp
+END
+sender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/nifti/!svn/ver/6643/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/sender.cpp
+END
+stereo_sender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/stereo_sender.cpp
+END
+play.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/play.cpp
+END

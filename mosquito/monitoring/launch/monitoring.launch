@@ -1,0 +1,9 @@
+<launch>
+ <include file="$(find monitoring)/launch/bullet.launch" />
+ <include file="$(find monitoring)/launch/thermal.launch" />
+ <include file="$(find monitoring)/launch/memory.launch" />
+ <include file="$(find monitoring)/launch/cpu.launch" />
+ <!--
+ <include file="$(find monitoring)/launch/runtime_monitor.launch" />
+ -->
+</launch>

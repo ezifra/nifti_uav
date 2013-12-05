@@ -1,0 +1,11 @@
+<!-- 
+
+Requires uvc_cam2 package installed. Deafault param: 15 fps, VGA/2. 
+
+-->
+<launch>
+
+ <include file="$(find mosquito_launchers)/launch/camera_down.launch" /> 
+ <include file="$(find mosquito_launchers)/launch/camera_front.launch" /> 
+
+</launch>

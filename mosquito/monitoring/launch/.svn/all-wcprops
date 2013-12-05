@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/nifti/!svn/ver/8710/code/ros/stacks/nifti_drivers/trunk/monitoring/launch
+END
+monitoring.launch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nifti/!svn/ver/8710/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/monitoring.launch
+END
+bullet.launch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nifti/!svn/ver/8710/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/bullet.launch
+END
+cpu.launch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/cpu.launch
+END
+memory.launch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/memory.launch
+END
+battery.launch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/8538/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/battery.launch
+END
+runtime_monitor.launch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/runtime_monitor.launch
+END
+thermal.launch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/thermal.launch
+END
+pc_wifi.launch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/launch/pc_wifi.launch
+END

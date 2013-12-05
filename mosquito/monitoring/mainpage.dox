@@ -1,0 +1,101 @@
+/**
+\mainpage
+\htmlinclude manifest.html
+
+\b monitoring is the package containing the node to monitore several system related informations like wifi, CPUs load, CPU thermal info,  labtop batery levels or memory usage.
+
+According to NIFTi policy, specific messages are defined in the \b monitoring/msgs folder.
+
+
+\section interface Commmunication interface in ROS
+
+\subsection parameters Parameters of the nodes
+
+\subsubsection monitoring_wifiLink
+
+The ROS node can take several parameters:
+- \a /wifiLink/interface (\c "wlan0"): build-in interface name to be observed
+- \a /wifiLink/hz" (\c "10.0"): updated frequency of the information
+
+\subsubsection monitoring_BulletWifiLink
+
+The ROS node can take several parameters:
+- \a /wifiLink/interface (\c "ath0"): interface name of the Ubiquiti Bullet M2 WiFi
+- \a /wifiLink/hz (\c "10.0"): updated frequency of the information
+- \a /wifiLink/username (\c "ubnt"): ssh username on the Ubiquiti Bullet M2
+- \a /wifiLink/password (\c "ubnt"): ssh password on the Ubiquiti Bullet M2
+- \a /wifiLink/host (\c "192.168.2.50"): host IP or hostname of the Ubiquiti Bullet M2
+- \a /wifiLink/port (\c "22"): ssh port of the Ubiquiti Bullet M2
+- \a /wifiLink/frame_id (\c "base_link"): frame_ip in which the information will be pulished
+
+
+\subsubsection monitoring_batteryInfo
+
+The ROS node can take several parameters:
+- \a /batteryInfo/hz (\c "0.2"): updated frequency of the information
+
+
+\subsubsection monitoring_thermalInfo
+
+The ROS node can take several parameters:
+- \a /thermalInfo/hz (\c "0.2"): updated frequency of the information
+
+\subsubsection monitoring_memoryInfo
+
+The ROS node can take several parameters:
+- \a /memoryInfo/hz (\c "0.2"): updated frequency of the information
+
+\subsubsection monitoring_cpuInfo
+
+The ROS node can take several parameters:
+- \a /cpuInfo/hz (\c "0.2"): updated frequency of the information
+
+
+\subsection topics Published topics
+The node (and class) is publishing topics
+
+\subsubsection pub_topics Topics
+- \c /monitoring/wifiLink (<a href="msg/WiFi.html">WiFi</a>): describes the status of the WiFi from the conneted System
+- \c /monitoring/batteryInfo (<a href="msg/Battery.html">Battery</a>): describes the status of the battery
+- \c /monitoring/cpuInfo (<a href="msg/CPU.html">CPU</a>): describes the status of the CPU and its load
+- \c /monitoring/memoryInfo (<a href="msg/Memory.html">Memory</a>): describes the status of the Memory and its load
+- \c /monitoring/thermalInfo (<a href="msg/Temperature.html">Temperature</a>): describes the thermal status of the system
+
+
+\subsection diag Diagnostics information
+We're using <a href="http://www.ros.org/wiki/diagnostics">diagnostics</a> to
+publish general status information and level of issue. The current diagnostics
+published are:
+- \c linkQuality: with WiFi Link information and general status
+- \c receiverLevel: with WiFi reciever infomation and reciever status
+- \c transmitterLevel: with WiFi transmitter infomation and transmitter status
+- \c connectionStatus: with WiFi connetion infomation (Type of connection, e.g. Managed, Add-hoc, Un-Managed, Master, ...)
+- \c bitRate: with the current Bit rate on the WiFi 
+- \c temperature: with system temperature infomation
+- \c cpuStatus: with infomation about the CPU/Kernel numbers and there indivitual load and speed
+- \c memoryStatus: with Memory infomation of the system (total amount, free, used, cached, ...)
+- \c swapStatus: with SWAP Memory infomation of the system (total amount, free, used, cached, ...)
+- \c currentBatteryLevel: with general Battery infomation and load of the current PC/Laptop
+
+
+
+<!-- 
+Provide an overview of your package.
+-->
+
+
+<!-- \section codeapi Code API
+-->
+<!--
+Provide links to specific auto-generated API documentation within your
+package that is of particular interest to a reader. Doxygen will
+document pretty much every part of your code, so do your best here to
+point the reader to the actual API.
+
+If your codebase is fairly large or has different sets of APIs, you
+should use the doxygen 'group' tag to keep these APIs together. For
+example, the roscpp documentation has 'libros' group.
+-->
+
+
+*/

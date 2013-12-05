@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/nifti/!svn/ver/7771/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/msg
+END
+UAV_Status.msg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nifti/!svn/ver/4439/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/msg/UAV_Status.msg
+END
+UAV_Manager.msg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nifti/!svn/ver/7771/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/msg/UAV_Manager.msg
+END

@@ -1,0 +1,41 @@
+usbi2c-ros-pkg
+--------------
+
+Version 1.00
+Bob Mottram, fuzzgun@gmail.com
+
+This package is intended for use with a USB to I2C communications module, linked to
+SRF08 sonar sensors.  It allows the user to broadcast the sonar ranges using a ROS publisher.
+
+USB to I2C module details: http://www.robot-electronics.co.uk/htm/usb_i2c_tech.htm
+Sonar sensor details:      http://www.robot-electronics.co.uk/htm/srf08tech.shtml
+
+To compile the package.
+
+1.  Make a directory called usbi2c within your ros/pkgs directory
+2.  Copy these files into the usbi2c directory
+3.  roscore
+4.  rosmake --rosdep-install usbi2c
+
+To set the address of a sonar sensor.
+
+1.  Connect the sensor to the USB-I2C module.  Only a single sensor should be attached.
+2.  roscore
+3.  rosrun usbi2c sonar _device:=/dev/ttyUSB0 _sensors:=1 _address:=<address>
+    Where the address is a hex value in the range 0xe0 to 0xfe
+
+To broadcast sonar ranges.
+
+1.  roscore
+2.  rosrun usbi2c sonar _device:=/dev/ttyUSB0 _sensors:=<number of sensors>
+
+The sensors should be assigned adjacent addresses so that the publisher can cycle through them.
+Potentially other activation patterns could be devised, but at present each sensor is activated
+sequentially.
+
+With the publisher running there is also an example client program which can be run with:
+
+    rosrun usbi2c sonar_client
+
+This should connect to the publisher and receive sonar ranges.
+

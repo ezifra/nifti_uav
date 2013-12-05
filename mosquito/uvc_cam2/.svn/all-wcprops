@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/nifti/!svn/ver/6643/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/nifti/!svn/ver/5302/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/Makefile
+END
+caminfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/caminfo.py
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/manifest.xml
+END

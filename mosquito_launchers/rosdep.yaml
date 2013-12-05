@@ -1,0 +1,13 @@
+hector_slam:
+  ubuntu: |
+       cd
+       mkdir ros
+       cd ros
+       mkdir stacks
+       cd ~/ros/stacks
+       svn co https://tu-darmstadt-ros-pkg.googlecode.com/svn/trunk/ 
+       rosmake --rosdep-install hector_nav_msgs
+       rosmake --rosdep-install hector_slam
+joystick_drivers:
+  ubuntu: ros-diamondback-joystick-drivers
+

@@ -1,0 +1,23 @@
+<package>
+  <description brief="flight_control">
+
+     flight_control
+
+  </description>
+  <author>Viatcheslav</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/flight_control</url>
+  <depend package="roslib"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="joy"/>
+  <depend package="geometry_msgs"/>
+  <depend package="monitoring_msgs"/>
+  <depend package="tf"/>
+
+  <rosdep name="joystick_drivers" />
+</package>
+
+

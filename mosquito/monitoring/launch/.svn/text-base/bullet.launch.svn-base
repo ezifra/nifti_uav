@@ -1,0 +1,12 @@
+<launch>
+	<node pkg="monitoring" type="monitoring_bulletWifiLink" name="monitoring_bulletWifiLink" respawn="true">
+    		<param name="/wifiLink/interface" value="ath0" type="str"/>
+    		<param name="/wifiLink/hz" value="2.0" type="str"/>
+		<param name="/wifiLink/username" value="ubnt" type="str"/>
+		<param name="/wifiLink/password" value="ubnt" type="str"/>
+		<param name="/wifiLink/host" value="192.168.2.55" type="str"/>
+		<param name="/wifiLink/port" value="22" type="str"/>
+		<param name="/wifiLink/frame_id" value="base_link" type="str"/>
+
+	</node>	
+</launch>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/nifti/!svn/ver/8538/code/ros/stacks/nifti_drivers/trunk/monitoring/src
+END
+cpuInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/src/cpuInfo.cpp
+END
+bulletWifiLink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/src/bulletWifiLink.cpp
+END
+memoryInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/nifti/!svn/ver/5683/code/ros/stacks/nifti_drivers/trunk/monitoring/src/memoryInfo.cpp
+END
+batteryInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nifti/!svn/ver/5683/code/ros/stacks/nifti_drivers/trunk/monitoring/src/batteryInfo.cpp
+END
+networkLinkTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nifti/!svn/ver/4406/code/ros/stacks/nifti_drivers/trunk/monitoring/src/networkLinkTest.cpp
+END
+batteryInfo2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nifti/!svn/ver/8538/code/ros/stacks/nifti_drivers/trunk/monitoring/src/batteryInfo2.cpp
+END
+thermalInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nifti/!svn/ver/5799/code/ros/stacks/nifti_drivers/trunk/monitoring/src/thermalInfo.cpp
+END
+batteryDiagnosticsMock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nifti/!svn/ver/8538/code/ros/stacks/nifti_drivers/trunk/monitoring/src/batteryDiagnosticsMock.cpp
+END
+wifiLink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/nifti/!svn/ver/5683/code/ros/stacks/nifti_drivers/trunk/monitoring/src/wifiLink.cpp
+END

@@ -1,0 +1,10 @@
+<!-- Launches a complete system -->
+
+<launch>
+
+ <include file="$(find mosquito_launchers)/launch/mosquito.launch" /> 
+ <include file="$(find mosquito_launchers)/launch/mosquito_hector_geotiff.launch" /> 
+ <include file="$(find monitoring)/launch/bullet.launch" /> 
+ <include file="$(find TFToPathConverter)/launch/uav.launch"/>
+
+</launch>

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/nifti/!svn/ver/7885/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/src
+END
+teleop_joy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nifti/!svn/ver/6556/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/src/teleop_joy.cpp
+END
+FlightControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nifti/!svn/ver/4324/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/src/FlightControl.cpp
+END

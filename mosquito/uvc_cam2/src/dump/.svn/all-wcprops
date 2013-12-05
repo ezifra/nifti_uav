@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/dump
+END
+dump_send.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/dump/dump_send.cpp
+END
+dump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/dump/dump.cpp
+END
+avilib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/dump/avilib.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/dump/defs.h
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/dump/huffman.h
+END
+avilib.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nifti/!svn/ver/4433/code/ros/stacks/nifti_UAV/trunk/mosquito/uvc_cam2/src/dump/avilib.h
+END

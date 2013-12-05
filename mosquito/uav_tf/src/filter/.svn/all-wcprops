@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/nifti/!svn/ver/5122/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/src/filter
+END
+WindowMeanFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/nifti/!svn/ver/5058/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/src/filter/WindowMeanFilter.cpp
+END
+ContingencyAnalysisWindowMeanFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/nifti/!svn/ver/5122/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/src/filter/ContingencyAnalysisWindowMeanFilter.cpp
+END
+WindowMeanFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/nifti/!svn/ver/5053/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/src/filter/WindowMeanFilter.h
+END
+ContingencyAnalysisWindowMeanFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/nifti/!svn/ver/5120/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/src/filter/ContingencyAnalysisWindowMeanFilter.h
+END

@@ -1,0 +1,12 @@
+<!-- 
+
+Automatically starts IMU messages
+
+-->
+
+<launch>
+	<node pkg="flight_control" type="FlightControl" name="FlightControl" respawn="true" output="screen"> 
+		 <param name="loop_rate" type="double" value="40"/>
+	</node>
+
+</launch>

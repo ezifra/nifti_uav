@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/nifti/!svn/ver/5153/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nifti/!svn/ver/5149/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nifti/!svn/ver/4330/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nifti/!svn/ver/5149/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/nifti/!svn/ver/4330/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/nifti/!svn/ver/4330/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/README
+END

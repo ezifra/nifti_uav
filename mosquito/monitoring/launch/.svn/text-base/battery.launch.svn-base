@@ -1,0 +1,5 @@
+<launch>
+        <node pkg="monitoring" type="monitoring_batteryInfo2" name="monitoring_batteryInfo" output="screen">
+            <param name="batteryDiagnosticsPublisherNode" value="nifti_robot_node" type="str"/>
+	</node>
+</launch>

@@ -1,0 +1,8 @@
+  <!--
+-->
+<launch>
+    <!--Created with rxDev-->
+    <node name="sonar" pkg="usbi2c" type="sonar" args="_device:=/dev/sensors/sonar _sensors:=1" respawn="true" output="screen">
+        <!--x="0" y="55"-->
+    </node>
+</launch>

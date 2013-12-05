@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nifti/!svn/ver/4431/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/src/usbi2c/msg
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/nifti/!svn/ver/4431/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/src/usbi2c/msg/__init__.py
+END
+_sonar_params.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/nifti/!svn/ver/4431/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/src/usbi2c/msg/_sonar_params.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/nifti/!svn/ver/7886/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/6715/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/4244/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nifti/!svn/ver/7884/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/nifti/!svn/ver/7886/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/Makefile
+END
+Makefile.ros
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/4312/code/ros/stacks/nifti_UAV/trunk/mosquito/flight_control/Makefile.ros
+END

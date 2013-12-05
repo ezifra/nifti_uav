@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="monitoring" type="monitoring_wifiLink" name="monitoring_wifiLink" respawn="true">
+    		<param name="/wifiLink/interface" value="wlan0" type="str"/>
+    		<param name="/wifiLink/hz" value="10.0" type="str"/>
+	</node>
+</launch>

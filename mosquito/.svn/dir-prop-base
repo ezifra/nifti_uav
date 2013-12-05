@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 135
+^/code/ros/stacks/nifti_drivers/trunk/monitoring   monitoring 
+^/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs   monitoring_msgs
+
+END

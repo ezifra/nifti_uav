@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg
+END
+CPU.msg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg/CPU.msg
+END
+CPUValues.msg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg/CPUValues.msg
+END
+Memory.msg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg/Memory.msg
+END
+Battery.msg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg/Battery.msg
+END
+Temperature.msg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg/Temperature.msg
+END
+ThermoValues.msg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg/ThermoValues.msg
+END
+WiFi.msg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/nifti/!svn/ver/5684/code/ros/stacks/nifti_drivers/trunk/monitoring_msgs/msg/WiFi.msg
+END

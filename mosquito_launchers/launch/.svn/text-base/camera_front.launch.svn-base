@@ -1,0 +1,24 @@
+<!-- 
+
+Requires uvc_cam2 package installed. Deafault param: 15 fps, VGA/2. 
+
+-->
+<launch>
+  <node pkg="uvc_cam2" type="sender" name="uav_cam_front" output="screen" respawn="true">
+  <param name="width" type="int" value="320" />
+  <param name="height" type="int" value="240" />
+  <param name="fps" type="int" value="15" />
+  <param name="frame" type="string" value="/camera" />
+  <param name="device" type="string" value="/dev/sensors/camera_front" />
+  <param name="topic_name" type="string" value="/viz/uav_cam_front/image" />
+  <param name="camera_info_name" type="string" value="/viz/uav_cam_front/set_camera_info"/>
+  <param name="frame_id" type="string" value="/uav_cam_front"/>
+  <param name="camera_mode" type="int" value="3" />   <!--0: off, 1: Manual, 3: Aperture Priority Mode -->
+
+  <param name="D" type="string" value="0.0 0.0 0.0 0.0 0.0" />
+  <param name="K" type="string" value="1.0 0.0 160 0.0 1.0 120 0.0 0.0 1.0" />
+  <param name="R" type="string" value="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0" />
+  <param name="P" type="string" value="1.0 0.0 160 0.0 0.0 1.0 120 0.0 0.0 0.0 1.0 0.0" />
+
+  </node>
+</launch>

@@ -1,0 +1,15 @@
+<!-- 
+
+Main mosquito launch file
+
+-->
+<launch>
+	
+<!--	<node pkg="tf" type="static_transform_publisher" name="base_link_to_cam" args="0.1 0 0.1 0 0 0 /uav /camera 100" /> -->
+	
+	<include file="$(find mosquito_launchers)/launch/hokuyo.launch" />
+	<include file="$(find mosquito_launchers)/launch/camera_node.launch" />
+	<include file="$(find mosquito_launchers)/launch/uav_tf.launch" />
+	<include file="$(find mosquito_launchers)/launch/uav_sonar.launch" />
+	
+</launch>

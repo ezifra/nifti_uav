@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/nifti/!svn/ver/5153/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/src
+END
+sonar_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nifti/!svn/ver/4330/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/src/sonar_client.cpp
+END
+sonar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nifti/!svn/ver/5149/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/src/sonar.cpp
+END
+serialport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/nifti/!svn/ver/4330/code/ros/stacks/nifti_UAV/trunk/mosquito/usbi2c/src/serialport.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/nifti/!svn/ver/6803/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nifti/!svn/ver/5156/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nifti/!svn/ver/4410/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nifti/!svn/ver/5120/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/nifti/!svn/ver/5154/code/ros/stacks/nifti_UAV/trunk/mosquito/uav_tf/Makefile
+END

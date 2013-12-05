@@ -1,0 +1,19 @@
+<!-- 
+
+
+
+-->
+<launch>
+  <node name="uav_tf" pkg="uav_tf" type="uav_tf" respawn="true" output="screen">
+	<param name="loop_rate" type="double" value="40" />
+	<param name="window_size_sonar" type="int" value="3" />
+	<param name="threshold_sonar" type="double" value="0.5" />
+	<param name="window_size_nick" type="int" value="3" />
+	<param name="threshold_nick" type="double" value="15.0" />
+	<param name="window_size_roll" type="int" value="3" />
+	<param name="threshold_roll" type="double" value="15.0" />
+  </node>
+<!--   <node pkg="tf" type="static_transform_publisher" name="base_link_to_cam" args="0.1 0 0.1 0 0 0 /uav /camera 100" />	-->
+  <include file="$(find mosquito_launchers)/launch/flight_control.launch" />
+   
+</launch>

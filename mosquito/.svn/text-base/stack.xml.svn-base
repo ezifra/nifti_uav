@@ -1,0 +1,15 @@
+<stack>
+  <description brief="mosquito">mosquito</description>
+  <author>Maintained by Viatcheslav</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/mosquito</url>
+  <depend stack="ros" />
+
+  <depend stack="diagnostics" /> <!-- self_test, diagnostic_updater -->
+  <depend stack="geometry" /> <!-- tf, tf_conversions, eigen, angles -->
+  <depend stack="image_common" /> <!-- image_transport, camera_calibration_parsers -->
+  <depend stack="joystick_drivers" /> <!-- joy -->
+  <depend stack="laser_drivers" /> <!-- hokuyo_node, sicktoolbox_wrapper -->
+
+</stack>

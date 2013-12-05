@@ -1,0 +1,9 @@
+Header header
+float32 battery_voltage
+float32 battery_capacity
+int8 rc_radio_level
+float32 pressure
+int16 current
+float32 nick
+float32 roll
+float32 yaw

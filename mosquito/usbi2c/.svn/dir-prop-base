@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 18
+msg_gen
+build
+bin
+
+END

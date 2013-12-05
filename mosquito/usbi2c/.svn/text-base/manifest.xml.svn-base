@@ -1,0 +1,18 @@
+<package>
+  <description brief="usbi2c">
+
+     A package for use with USB to I2C Communication Module, used to communicate with sonar sensors
+     See http://www.robot-electronics.co.uk/htm/usb_i2c_tech.htm
+
+  </description>
+  <author>Bob Mottram</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/usbi2c</url>
+  <depend package="std_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
