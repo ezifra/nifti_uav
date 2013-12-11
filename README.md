@@ -34,8 +34,8 @@ The package *nifti_uav* and its dependencies is build with cmake/rosmake. You ca
 To build the *nifti_uav* sources, make sure you have the *nifti_uav* package directory and its dependencies set correctly in your ROS_PACKAGE_PATH environment variable.  
 Then type into a console:
 
-*rosmake mosquito mosquito_launchers*  
-
+*rosmake mosquito*  
+*rosmake mosquito_launchers*  
 
 3. Usage
 --------
