@@ -6,17 +6,20 @@
 1. Introduction/Overview
 ------------------------
 
-The NIFTi UAV is an eight motor Microcopter carrying a 2D laser scanner, two cameras, an ultrasonic-, and a GPS-sensor. It is remotely controlled via a 2,4GHz system. The data of the sensors can be processed on board or be transferred via WiFi over 2,4GHz or 5GHz to a remote access point.  
+The NIFTi UAV is an eight motor Microcopter carrying a 2D laser scanner, two cameras, an ultrasonic-, and a GPS-sensor. It is remotely controlled via a 2,4GHz system.  
+The data of the sensors can be processed on board or be transferred via WiFi over 2,4GHz or 5GHz to a remote access point.  
 For the NIFTi project the copter is used to transmit overview images of a disaster scenario to support the information and decision management of a rescue team. 
+
+This picture shows an overview of the internal modules and communication channels:  
+<img src="https://raw.github.com/NIFTi-Fraunhofer/nifti_uav/master/doc/UAV_modules_and_connections.jpg" alt="NIFTi UAV modules and connections" width="90%"/>
 
 
 2. Installation
 ---------------
 
 This software is based on [ROS Fuerte](http://wiki.ros.org/fuerte).
-You need also the following packages (partly included here):
+You need also the following packages:
 * [git] (http://git-scm.com)
-...
 
 
 2.1 Sources
@@ -32,10 +35,6 @@ To build the *nifti_uav* sources, make sure you have the *nifti_uav* package dir
 Then type into a console:
 
 *rosmake mosquito mosquito_launchers*  
-
-
-Internal modules and communications are related like this:
-<img src="https://raw.github.com/NIFTi-Fraunhofer/nifti_uav/master/doc/UAV_modules_and_connections.jpg" alt="NIFTi UAV modules and connections" width="90%"/>
 
 
 3. Usage
