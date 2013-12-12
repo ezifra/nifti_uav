@@ -20,6 +20,7 @@ This picture shows an overview of the internal modules and communication channel
 This software is based on [ROS Fuerte](http://wiki.ros.org/fuerte).
 You need also the following packages:
 * [git] (http://git-scm.com)
+* [hector_slam] (http://wiki.ros.org/hector_slam)
 
 
 2.1 Sources
