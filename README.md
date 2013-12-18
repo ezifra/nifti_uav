@@ -17,10 +17,10 @@ This picture shows an overview of the internal modules and communication channel
 2. Installation
 ---------------
 
-This software is based on [ROS Fuerte](http://wiki.ros.org/fuerte).
+This software is based on ROS Fuerte [http://wiki.ros.org/fuerte](http://wiki.ros.org/fuerte).
 You need also the following packages:
-* [git] (http://git-scm.com)
-* [hector_slam] (http://wiki.ros.org/hector_slam)
+* git [http://git-scm.com] (http://git-scm.com)
+* hector_slam [http://wiki.ros.org/hector_slam] (http://wiki.ros.org/hector_slam)
 
 
 2.1 Sources
@@ -30,7 +30,7 @@ You can get the sources by cloning the repository above:
 
 *git clone https://github.com/NIFTi-Fraunhofer/nifti_uav*
 
-The package *nifti_uav* and its dependencies is build with cmake/rosmake. You can find a tutorial for using cmake [here](http://www.youtube.com/watch?v=CLvZTyji_Uw).
+The package *nifti_uav* and its dependencies is build with cmake/rosmake. You can find a tutorial for using cmake here [http://www.youtube.com/watch?v=CLvZTyji_Uw](http://www.youtube.com/watch?v=CLvZTyji_Uw).
 
 To build the *nifti_uav* sources, make sure you have the *nifti_uav* package directory and its dependencies set correctly in your ROS_PACKAGE_PATH environment variable.  
 Then type into a console:
@@ -44,11 +44,11 @@ Then type into a console:
 To launch the ROS nodes on the UAV you have to run a roscore on the UAV and then just type:  
 *roslaunch mosquito_launchers UAV.launch*
 
-Further documentation of how to handle the UAV you can find [here](https://github.com/NIFTi-Fraunhofer/nifti_uav/blob/master/doc/Flying%20the%20NIFTi-Mikrokopter.docx).
+Further documentation of how to handle the UAV you can find at [https://github.com/NIFTi-Fraunhofer/nifti_uav/blob/master/doc/Flying%20the%20NIFTi-Mikrokopter.docx](https://github.com/NIFTi-Fraunhofer/nifti_uav/blob/master/doc/Flying%20the%20NIFTi-Mikrokopter.docx).
 
 
 4. Report a bug
 ---------------
-Please use the [issue tracker](https://github.com/NIFTi-Fraunhofer/nifti_uav/issues) of github to report a bug.
+Please use the issue tracker [https://github.com/NIFTi-Fraunhofer/nifti_uav/issues](https://github.com/NIFTi-Fraunhofer/nifti_uav/issues) of github to report a bug.
 
 
