@@ -44,7 +44,7 @@ Then type into a console:
 To launch the ROS nodes on the UAV you have to run a roscore on the UAV and then just type:  
 *roslaunch mosquito_launchers UAV.launch*
 
-Further documentation of how to handle the UAV you can find at [https://github.com/NIFTi-Fraunhofer/nifti_uav/blob/master/doc/Flying%20the%20NIFTi-Mikrokopter.docx](https://github.com/NIFTi-Fraunhofer/nifti_uav/blob/master/doc/Flying%20the%20NIFTi-Mikrokopter.docx).
+Further documentation of how to handle the UAV you can find at [https://github.com/NIFTi-Fraunhofer/nifti_uav/blob/master/doc/Flying%20the%20NIFTi-Mikrokopter.pdf](https://github.com/NIFTi-Fraunhofer/nifti_uav/blob/master/doc/Flying%20the%20NIFTi-Mikrokopter.pdf).
 
 
 4. Report a bug
